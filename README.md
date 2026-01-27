@@ -6,6 +6,8 @@ What consistently emerged was that, while technical depth remains important, suc
 
 The interview framework below reflects those conversations and is designed to assess how candidates think, lead, and influence, not just what they know.
 
+In this case, we went for a 2 stage interview process. 
+
 ---
 
 This document provides an illustrative example of how interviews for senior data analytics leadership roles may be structured.
@@ -15,7 +17,7 @@ It does not describe a live role, team, or interview process.
 
 ---
 
-## Interview Stage 1: Stakeholder & Change Leadership
+## Interview Stage 1: Hiring Mangager + Stakeholder & Change Leadership (Total 60 minute GoogleMeet) 
 
 ### Objective
 To assess a candidate’s ability to lead through change while maintaining operational stability, particularly in business-critical or customer-facing environments.
@@ -51,14 +53,14 @@ Interviewers may assess evidence across the following areas:
 
 ---
 
-## Interview Stage 2: Strategy, Leadership & Impact
+## Interview Stage 2: Strategy, Leadership & Impact (Total 90 minutes - onsite F2F) 
 
 ### Objective
 To explore how a candidate would approach leading a data analytics function at scale, including priorities, leadership approach, and potential impact.
 
 This stage is designed to understand how candidates think, influence, and lead — rather than testing detailed delivery plans.
 
-### Example format (60 minutes)
+### Example format (90 minutes)
 - Short presentation to frame thinking
 - Open discussion and challenge
 - Candidate questions
