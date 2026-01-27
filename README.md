@@ -1,4 +1,4 @@
-## Senior Data Analytics Leadership Interview – Example Framework
+## Senior Data Analytics Leadership Interview – Example of our framework created
 
 While working on a VP of Data Analytics hire, I had a number of interesting conversations about the balance between technical credibility and leadership capability at senior levels.
 
